@@ -25,7 +25,7 @@ Proj3.py
 	And the train data folders are 01(smile), 02(hat), 03(hash), 04(heart) and 05(dollar)
 	
 	So the directory of train data folder should be F:\proj3\01, F:\proj3\02, etc. and the directory of test image should be F:\proj3\03.jpg
-3. Run
+3. Run(Can also check sample run to see how to run it)
 	
 	i. Active opencv enviroment in Command Promopt with following command (*If the environment is not activated, the program cannot run*)
 	
